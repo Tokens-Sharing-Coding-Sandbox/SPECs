@@ -3,7 +3,7 @@ The initial idea of this project. And We can discuss spec and features list here
 
 # I Would Like to Announce A New Project on Going for A Tokens Sharing Network.
 
-Even though we call it a network, which is inspired by codesandbox.io for learning people to learn and use Javascript, we want to build a sandbox for people to create and share their tokens as easy as possible. It could be used as a tokens app or even a wallet without any line of code as well. By using this platform, people can easily and fully access the tokens they create on the blockchain and using that to build a brand new era of the digital economy globally.
+Even though we call it a network, which is inspired by [codesandbox.io](https://codesandbox.io/) for learning people to learn and use Javascript, we want to build a sandbox for people to create and share their tokens as easy as possible. It could be used as a tokens app or even a wallet without any line of code as well. By using this platform, people can easily and fully access the tokens they create on the blockchain and using that to build a brand new era of the digital economy globally.
 
 What is a new digital economy? what it may change and impact our daily life? Almost everything happen in our life are gradually moving to Internet and kill so many businesses or products in the real world in these couple decades, except “Money” and “Banks” for example, the fundamental exchange of our works and living, and its middle mans, such as the banks or the governments. The major reason for these exceptions is because they are the only thing or people we can trust so for in the real world. 
 
