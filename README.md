@@ -32,6 +32,6 @@ What we are not going to do.
 
 
 
-PS. Any sponsor or developer who wants to join or support this project, please contact me, Ming-der Wang<mingderwang@gmail.com> or @mingderwang on twitter.
+PS. Any sponsor or developer who wants to join or support this project, please contact me, Ming-der Wang <mingderwang@gmail.com> or @mingderwang on twitter.
 
 In May, 2018, we are working on the first phase to design the whole architecture and define the core functions on papers. Any recommendations or feedback will be very welcome.
