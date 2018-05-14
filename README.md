@@ -14,7 +14,7 @@ This is how we are going to do,
 
 
 1. We are going to provide a platform on top of a public blockchain network for people to create, use, transfer, or exchange their own tokens for their daily life.
-2. We are going to give away everyone who uses this platform some coins or tokens initially for creating or transferring their tokens at very beginning. Basically, after that, they will use their tokens to do all other things, and exchange tokens with anyone in the world for credits, assets, value, or works. 
+2. During the promotion period, we are going to give away everyone who uses this platform some coins or tokens initially for creating or transferring their own tokens at very beginning. Basically, after that, they will use their tokens to do all other things, and exchange tokens with anyone in the world for exchanging something like credits, assets, products, or even laber works. But for long run, after the free coins are used up, people still possible need to by some gas (terminology in Ethereum) to run any smart contract by themselves.
 
      <Remark: On any current blockchain network, you have to pay some coins or tokens to execute a smart contract (a program what runs on a blockchain), so we want to give you some free tokens to get started.>
      
